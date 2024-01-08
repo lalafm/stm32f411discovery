@@ -1,0 +1,2 @@
+lsm303dlhc.c:10:6:lsm303_init	1
+lsm303dlhc.c:19:6:lsm303_read	1

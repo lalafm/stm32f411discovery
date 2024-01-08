@@ -1,0 +1,7 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+tim.c:11:6:tim2_register_callback	1
+tim.c:16:6:TIM2_IRQHandler	3
+tim.c:28:6:tim2_1hz_init	1
+tim.c:42:6:tim2_1hz_interrupt	1
+tim.c:60:6:tim4_pd12_output_compare	1
+tim.c:90:6:tim3_pa6_input_capture	1
